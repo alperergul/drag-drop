@@ -17,7 +17,7 @@ $npm instal
 
 ```
 $npm start
-tsc -w
+$tsc -w
 ```
 
 | Project Content | Usage Status |
