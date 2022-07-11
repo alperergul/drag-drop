@@ -17,5 +17,5 @@ $npm instal
 
 ```
 $npm start
-tsc -w
+$tsc -w
 ```
