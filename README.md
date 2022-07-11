@@ -19,3 +19,11 @@ $npm instal
 $npm start
 tsc -w
 ```
+
+| Project Content | Usage Status |
+| :-------------- | :----------: |
+| Classes         |      ✅      |
+| Interfaces      |      ✅      |
+| Advanced Types  |      ✅      |
+| Generics        |      ✅      |
+| Decorators      |      ✅      |
