@@ -27,3 +27,4 @@ $tsc -w
 | Advanced Types  |      ✅      |
 | Generics        |      ✅      |
 | Decorators      |      ✅      |
+| WebPack         |      ✅      |
